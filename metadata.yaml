@@ -1,0 +1,28 @@
+_repo: Captains-of-Industry--or-Men-of-Business-Who-Did-Something-Besides-Making-Money_20064
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Parton, James
+    birthdate: 1822
+    deathdate: 1891
+    gutenberg_agent_id: '2129'
+    url: http://www.gutenberg.org/2009/agents/2129
+    wikipedia: http://en.wikipedia.org/wiki/James_Parton
+description: ''
+gutenberg_issued: '2006-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Industrial arts -- Biography'
+- !lcc 'T'
+title: Captains of Industry; or, Men of Business Who Did Something Besides Making
+  Money
+url: http://www.gutenberg.org/ebooks/20064
